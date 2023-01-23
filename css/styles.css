@@ -1,12 +1,74 @@
-html {
-    background-color: #FEDEFF;
+html::-webkit-scrollbar {
+    display: none;
+}
 
+/* Hide scrollbar for IE, Edge and Firefox */
+html {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
 }
 
 
+body {
+    background-color: #f7d0e8;
+    font-family: 'Poppins', sans-serif;
+    /* overflow: hidden; */
+}
 
 
-#f7f6cf
+#mainNavbar .nav-link {
+    color: white;
+    font-size: bold;
+    font-size: 1.2rem;
+    transition: all 300ms ease-in-out;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #E97777;
+}
+
+#mainNavbar .navbar-brand {
+    font-size: 2rem;
+    color: #FD8A8A;
+    font-weight: bolder;
+
+}
+
+#headingGroup span {
+    color: #93C6E7;
+}
+
+#headingGroup h2 {
+    font-size: 2.3rem;
+    color :white;
+}
+
+h2{
+    color: #93C6E7;
+    font-weight: bolder;
+
+}
+
+p{
+    color: #E97777;
+    font-weight: 100;
+    line-height: 2rem;
+    font-size: 1rem;
+    
+}
+.sec{
+    margin-bottom: 5rem;
+}
+
+
+.navbar.scrolled {
+    transition: background 500ms ;
+    background: rgba(255, 255, 255, 0);
+    backdrop-filter: blur(2rem);
+}
+/* #f7f6cf
 #b6d8f2
 #5784ba
-#9ac8eb
+#9ac8eb */

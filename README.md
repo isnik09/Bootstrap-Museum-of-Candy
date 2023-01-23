@@ -14,11 +14,11 @@ This is a mobile first responsive website thingy...
 https://isnik09.github.io/Bootstrap-Museum-of-Candy/
 
 ## Screenshots
-![App Screenshot](https://raw.githubusercontent.com/isnik09/Bootstrap-Museum-of-Candy/master/screenshots/ipad-bootstrap.png)
 ![App Screenshot](https://raw.githubusercontent.com/isnik09/Bootstrap-Museum-of-Candy/master/screenshots/bootstrap-phone.png)
+![App Screenshot](https://raw.githubusercontent.com/isnik09/Bootstrap-Museum-of-Candy/master/screenshots/ipad-bootstrap.png)
+
 ![App Screenshot](https://raw.githubusercontent.com/isnik09/Bootstrap-Museum-of-Candy/master/screenshots/laptop-boots.png)
 
 
-## 🚀 About Me
-Mobile First...
-I'm a cool dude...
+## 🚀 Mobile First...
+
